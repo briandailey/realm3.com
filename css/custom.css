@@ -2,6 +2,7 @@
 div.jumbotron {
     color: #fff;
     background: url("/img/fibonacci.jpg") no-repeat;
+    background-color: #888;
 }
 div.jumbotron .well {
     color: #666;
