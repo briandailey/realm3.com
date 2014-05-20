@@ -1,0 +1,14 @@
+/** custom **/
+div.jumbotron {
+    color: #fff;
+    background: url("/img/fibonacci.jpg") no-repeat;
+}
+div.jumbotron .well {
+    color: #666;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+    div.jumbotron {
+        background: url("/img/fibonacci@2x.jpg") no-repeat;
+    }
+}
+
